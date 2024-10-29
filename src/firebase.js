@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Firebase-sovelluksesi konfiguraatio
 const firebaseConfig = {
-  apiKey: "AIzaSyDhxGK-Ecf1M-3J9NPRjf3cfUHJEHJfIgA",
+  apiKey: "In the Word document",
   authDomain: "shopping-list-12ee4.firebaseapp.com",
   projectId: "shopping-list-12ee4",
   storageBucket: "shopping-list-12ee4.appspot.com",
